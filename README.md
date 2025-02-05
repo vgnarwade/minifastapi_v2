@@ -31,3 +31,5 @@ minifastapi_v2  ( PROJECT ROOT )
 # project dependency management
 
 DEV -> TEST -> UAT -> PROD
+
+# This project is available on GitHub
